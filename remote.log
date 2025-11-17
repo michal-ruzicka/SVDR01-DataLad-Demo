@@ -1,2 +1,2 @@
-0190f806-31a9-49f7-bfe2-9944132b2c2b autoenable=true bucket=svdr01-datalad-demo datacenter=US encryption=none host=s3.cl4.du.cesnet.cz name=cesnet-s3 partsize=1GiB port=80 storageclass=STANDARD type=S3 timestamp=1763415172s
+0190f806-31a9-49f7-bfe2-9944132b2c2b autoenable=true bucket=svdr01-datalad-demo datacenter=US encryption=none host=s3.cl4.du.cesnet.cz name=cesnet-s3 partsize=100MiB port=80 storageclass=STANDARD type=S3 timestamp=1763416116s
 c04eb54b-4b4e-5755-8436-866b043170fa autoenable=true encryption=none externaltype=datalad-archives name=datalad-archives type=external timestamp=1763329067s
