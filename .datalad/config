@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = 5be7aa01-4794-44a6-a876-51d2e78bbca9
+[datalad "containers.pydeface-software"]
+	image = .datalad/environments/pydeface-software/image
+	cmdexec = {python} -m datalad_container.adapters.docker run {img} {cmd}
